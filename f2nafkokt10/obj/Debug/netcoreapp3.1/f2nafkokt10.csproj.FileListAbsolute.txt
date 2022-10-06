@@ -1,0 +1,14 @@
+C:\Users\HALLGATO.I417-06\source\repos\f2nafkokt10\f2nafkokt10\obj\Debug\netcoreapp3.1\f2nafkokt10.csproj.AssemblyReference.cache
+C:\Users\HALLGATO.I417-06\source\repos\f2nafkokt10\f2nafkokt10\obj\Debug\netcoreapp3.1\f2nafkokt10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HALLGATO.I417-06\source\repos\f2nafkokt10\f2nafkokt10\obj\Debug\netcoreapp3.1\f2nafkokt10.AssemblyInfoInputs.cache
+C:\Users\HALLGATO.I417-06\source\repos\f2nafkokt10\f2nafkokt10\obj\Debug\netcoreapp3.1\f2nafkokt10.AssemblyInfo.cs
+C:\Users\HALLGATO.I417-06\source\repos\f2nafkokt10\f2nafkokt10\obj\Debug\netcoreapp3.1\f2nafkokt10.csproj.CoreCompileInputs.cache
+C:\Users\HALLGATO.I417-06\source\repos\f2nafkokt10\f2nafkokt10\bin\Debug\netcoreapp3.1\f2nafkokt10.exe
+C:\Users\HALLGATO.I417-06\source\repos\f2nafkokt10\f2nafkokt10\bin\Debug\netcoreapp3.1\f2nafkokt10.deps.json
+C:\Users\HALLGATO.I417-06\source\repos\f2nafkokt10\f2nafkokt10\bin\Debug\netcoreapp3.1\f2nafkokt10.runtimeconfig.json
+C:\Users\HALLGATO.I417-06\source\repos\f2nafkokt10\f2nafkokt10\bin\Debug\netcoreapp3.1\f2nafkokt10.runtimeconfig.dev.json
+C:\Users\HALLGATO.I417-06\source\repos\f2nafkokt10\f2nafkokt10\bin\Debug\netcoreapp3.1\f2nafkokt10.dll
+C:\Users\HALLGATO.I417-06\source\repos\f2nafkokt10\f2nafkokt10\bin\Debug\netcoreapp3.1\f2nafkokt10.pdb
+C:\Users\HALLGATO.I417-06\source\repos\f2nafkokt10\f2nafkokt10\obj\Debug\netcoreapp3.1\f2nafkokt10.dll
+C:\Users\HALLGATO.I417-06\source\repos\f2nafkokt10\f2nafkokt10\obj\Debug\netcoreapp3.1\f2nafkokt10.pdb
+C:\Users\HALLGATO.I417-06\source\repos\f2nafkokt10\f2nafkokt10\obj\Debug\netcoreapp3.1\f2nafkokt10.genruntimeconfig.cache

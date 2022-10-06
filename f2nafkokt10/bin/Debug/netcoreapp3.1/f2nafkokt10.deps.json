@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "f2nafkokt10/1.0.0": {
+        "runtime": {
+          "f2nafkokt10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "f2nafkokt10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
